@@ -6,6 +6,7 @@
 //
 
 import UIKit
+import WebKit
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
